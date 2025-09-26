@@ -24,3 +24,11 @@ Manage a DevOps project using Git best practices, including branching, pull requ
 
 ## 🚀 Project Structure
 
+task4-devops/
+ ├── .github/workflows/
+ ├── .gitignore
+ ├── Dockerfile
+ ├── Jenkinsfile
+ ├── main.py
+ ├── requirements.txt
+ └── README.md
